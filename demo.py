@@ -1,2 +1,2 @@
 print('Hello')
-print('Welcome to Elton file')
+print('Welcome to Elton')
